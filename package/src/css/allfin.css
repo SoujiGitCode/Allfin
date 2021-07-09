@@ -1,0 +1,42 @@
+.btn-primary:hover {
+    color: #fff;
+    background-color:#3c83c4;
+    border-color: #3c83c4;
+}
+
+
+.btn-secondary:hover{
+    color: #fff;
+    background-color: #2e455d;
+    border-color: #2e455d;
+}
+
+
+
+
+/*comment when coding*/
+.dz-demo-panel .dz-demo-trigger{
+    display: none;
+}
+.sidebar-right .card-tabs .nav-tabs .nav-item .nav-link:hover {
+    display: none;
+    color: #000;
+}
+
+.nav-item{display: none}
+.primary-setting, .navheader-setting, .header-setting, .sidebar-setting {display: none}
+
+
+.admin-settings > h4{
+    display: none;
+}
+.sidebar-right .tab-content {
+    padding: 1.25rem 1.25rem 0;
+    min-height: auto;
+    background: #fff;
+}
+
+
+.apps-menu{
+    display: none !important;
+}
